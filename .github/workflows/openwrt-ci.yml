@@ -175,8 +175,8 @@ jobs:
           # CONFIG_PACKAGE_luci-app-webadmin=y
           # CONFIG_PACKAGE_luci-app-wireguard=y
           # CONFIG_PACKAGE_luci-app-wrtbwmon=y
-          CONFIG_PACKAGE_luci-app-clash=y
-          CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
+          # CONFIG_PACKAGE_luci-app-clash=y
+          # CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
           EOF
 
           # LuCI主题:
